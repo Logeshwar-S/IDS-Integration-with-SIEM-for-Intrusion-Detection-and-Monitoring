@@ -1,4 +1,4 @@
-# IDS-Integration-with-SIEM-for-Intrusion-Detection-and-Monitoring
+# IDS Integration with SIEM for Intrusion Detection and Monitoring
 ## Project Overview
 
 This project focuses on integrating an Intrusion Detection System (IDS) with a Security Information and Event Management (SIEM) solution to detect and monitor security threats in a simulated network environment. By setting up a virtualized environment that mimics real-world attack and defense scenarios, this project provides hands-on experience in intrusion detection, security event monitoring, and log analysis. The goal is to understand how IDS and SIEM tools work together to identify and mitigate security threats effectively.
